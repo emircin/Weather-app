@@ -4,7 +4,7 @@
 
 ### Links
 
-- Live Site URL:   
+- Live Site URL:   https://emircin.github.io/Weather-app/
 
 
 ### The challenge
